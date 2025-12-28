@@ -12,7 +12,7 @@ PROCES GENEROWANIA MODELU 3D:
 5. Stwórz aktora (actor) - obiekt który można wyświetlić
 
 WYKRYWANIE DUPLIKATÓW:
-podobnie jak w geometry_utils.py wykrywamy i eliminujemy duplikaty
+wykorzystywana jest geometry_utils.py do wykrywania i eliminacji duplikatów
 """
 
 from vtkmodules.vtkCommonTransforms import vtkTransform
